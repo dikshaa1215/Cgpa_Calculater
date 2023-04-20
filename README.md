@@ -1,1 +1,1 @@
-# A GPA calculator in Swing
+# A CGPA calculator in Swing
